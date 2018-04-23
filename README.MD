@@ -45,5 +45,5 @@ python3 color_histogram_plot.py
 This will load "storage.pkl" and generate a smoothed radial histogram based on the hues of the scraped images.
 *note: * There are many ways to visulaize distributions of color, here we simply discard black and white and look at the predominance of the colors
 of the rainbow.
-![girl](media/radial_colors.png)
+![girl](media/radial_hist_final.png)
 
